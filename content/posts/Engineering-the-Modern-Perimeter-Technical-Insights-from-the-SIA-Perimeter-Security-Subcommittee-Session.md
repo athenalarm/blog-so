@@ -92,12 +92,11 @@ Fadhigii Guddiga Amniga Meeraheeda ee SIA wuxuu caddeeyay in meeraheeda casriga 
 
 ## FAQ: Su'aalaha Badanaa La Waydiiyo ee ku saabsan Amniga Meeraheeda Ganacsiga
 
-S: Sidee loo maareeyaa xasillooni-darrada shabakada GSM-ka ee ka jirta Soomaaliya marka la isticmaalayo alarm monitoring?
+### S: Sidee loo maareeyaa xasillooni-darrada shabakada GSM-ka ee ka jirta Soomaaliya marka la isticmaalayo alarm monitoring?
 **Cidda iska leh naqshadaynta waxay doorataa nidaamka isku-dhafka ah.** Nidaamyada xadgudubka ee isku-dhafka ah (hybrid intrusion systems) waxay isku daraan isgaarsiiyaha GSM (GSM communicator) iyo xadhkaha IP-ga ama Fiber Optic-ga caadiga ah. Marka shabakada mobiladu daciifto, qalabka sida AS-9000 alarm control panel wuxuu si toos ah ugu wareegaa habka labaad si loo hubiyo in calaamadaha Contact ID ama SIA protocol ay si habsmoothi ah u gaaraan saldhigga kormeerka dhexe (central monitoring station).
 
-S: Maxay tahay sababta fogaanta 5-mitir ay muhiim u tahay marka la dhisayo commercial intrusion protection ee bakhaarada waaweyn?
+### S: Maxay tahay sababta fogaanta 5-mitir ay muhiim u tahay marka la dhisayo commercial intrusion protection ee bakhaarada waaweyn?
 **Tani waxay dammaanad qaadaysaa waqti iyo caddayn sharci.** Ka fogaanshaha xariiqda rasmiga ah ee dhulka waxay ka hortagtaa in tuugadu ay qalab ama baabuur ku tiiriyaan deyrka bannaanka. Sidoo kale, injineerinku wuxuu helayaa aag xor ah oo ka fog dhibaatooyinka wireless faragelinta guuxa qalabka kale iyo meel ku filan oo dareemayaasha meeraheeda (perimeter sensors) ay ku kiciyaan digniinta ka hor inta aan dhismaha weyn loo soo dhawaan.
 
-S: Sidee lagu yareyn karaa digniinta beenta ah (false alarms) ee deyrka bannaanka sababo la xiriira dabaysha ama xoolaha?
+### S: Sidee lagu yareyn karaa digniinta beenta ah (false alarms) ee deyrka bannaanka sababo la xiriira dabaysha ama xoolaha?
 **Xalku waa isticmaalka tiknoolajiyada is-dhaafsiga labada dareeme (Dual-technology).** Naqshadaynayaasha casriga ah ee Athenalarm waxay isku xirtaan dareemayaasha siligga ee deyrka (fiber optic fence sensors) iyo mantiqqa hubinta muuqaalka kamaradaha (video analytics). Digniinta waxaa la soo saaraa oo kaliya marka labada hab ay isku mar xaqiijiyaan xadgudubka jireed, taas oo hoos u dhigta khaladaadka deegaanka ilaa 98%.
----
